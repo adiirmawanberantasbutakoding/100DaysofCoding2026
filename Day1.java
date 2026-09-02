@@ -2,7 +2,7 @@
 // Nama: Adi Irmawan
 
 /**
- * Kelas utama untuk tugas day 1
+ * Kelas tugas day 1
  */
 public class Day1 {
     public static void main(String[] args) { 
