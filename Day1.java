@@ -2,16 +2,16 @@
 // // = komentar 1 baris, buat catatan singkat
 
 /**
- * /** ... */ = javadoc, buat dokumentasi class
+ * Komentar ini = javadoc, buat dokumentasi class
  */
-public class Day1 {
+public class Main {
     public static void main(String[] args) { 
         
-        // // = komentar 1 baris, buat jelasin 1 baris kode di bawah
+        // = komentar 1 baris, buat jelasin 1 baris kode di bawah
         System.out.println("hari 1 ngoding");
 
         /*
-        /* ... */ = komentar banyak baris, buat jelasin yang panjang
+        Komentar ini = komentar banyak baris, buat jelasin yang panjang
         tugas day 1:
         1. belajar println
         2. belajar 3 jenis komentar
