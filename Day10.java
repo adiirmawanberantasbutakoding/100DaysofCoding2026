@@ -15,5 +15,5 @@ public class Main {
 
         System.out.println("TIPE DATA BOOLEAN");
         System.out.println("8. boolean: true atau false");
-    }
+  }
 }
