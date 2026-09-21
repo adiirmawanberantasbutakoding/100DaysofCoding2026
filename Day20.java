@@ -17,19 +17,11 @@ public class Main{
         String sInt = String.valueOf(umur);
         String sDouble = String.valueOf(nilai);
         String sBoolean = String.valueOf(lulus);
-        
-        
-        char grade = 'A';
-        String sChar = String.valueOf(grade);
-        long saldo = 1000000L;
-        String sLong = String.valueOf(saldo);
 
         System.out.println("\n--- HASIL STRING ---");
         System.out.println("int -> String: " + sInt + " ( " + sInt + 10 + " )");
         System.out.println("double -> String: " + sDouble);
         System.out.println("boolean -> String: " + sBoolean);
-        System.out.println("char -> String: " + sChar);
-        System.out.println("long -> String: " + sLong);
         
         input.close();
     }
